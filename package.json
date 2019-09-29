@@ -1,0 +1,23 @@
+{
+  "name": "react-tab-out-catcher",
+  "filename": "index.js",
+  "version": "1.0.0",
+  "author": "Konstantin Podmasko",
+  "description": "This is a React solution for tab-out-catcher. It is a simple lib to wrap a container (such as form) and prevent jumping out from it by pressing Tab-button",
+  "keywords": [
+    "react",
+    "tab",
+    "out",
+    "catch",
+    "focus"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpodmasko/react-tab-out-catcher"
+  },
+  "dependencies": {
+    "react": "^16.10.1",
+    "tab-out-catcher": "^1.0.2"
+  }
+}
