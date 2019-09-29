@@ -4,17 +4,18 @@ This is a React solution for tab-out-catcher. It is a simple lib to wrap a conta
 
 ## get started
 
-1. import TabOutCatcher
-2. pass a container to TabOutCatcher as a child. Note: you must pass only one child.
+1. install via npm
+2. import TabOutCatcher
+3. pass a container to TabOutCatcher as a child. Note: you must pass only one child.
 
 ```javascript
 ...
-// 1 menu item
+// 2 menu item
 import TabOutCatcher from "react-tab-out-catcher";
 ...
 render() {
 	...
-	// 2 menu item
+	// 3 menu item
 	<TabOutCatcher>
 		<form className="wrapped-in-a-tab-out-catcher">
              ...
